@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |
 | ------- |
@@ -61,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
