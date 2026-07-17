@@ -24,7 +24,7 @@ public:
         ListNode* start=curr;
         prev=NULL;
 
-        while(curr!=NULL && i!=right+1){
+        while( i!=right+1){
             ListNode* nex=curr->next;
             curr->next=prev;
             prev=curr;
