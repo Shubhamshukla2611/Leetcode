@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0057-insert-interval) |
 | [0503-next-greater-element-ii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0739-daily-temperatures) |
 | [0986-interval-list-intersections](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
