@@ -30,10 +30,9 @@ public:
                 pq.push(curr);
 
             }else{
-                if(pq.top().second<curr.second || pq.top().second == curr.second && pq.top().first > curr.first) {
-                    pq.pop();
-                    pq.push(curr);
-                }
+                pq.push(curr);
+                pq.pop();
+               
             }
         }
 
