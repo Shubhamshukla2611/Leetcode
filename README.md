@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Sweep Line
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -139,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -152,4 +158,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
