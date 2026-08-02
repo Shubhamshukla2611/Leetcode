@@ -23,10 +23,10 @@ public:
 
         while(pq.size()>1){
 
-            auto a=pq.top();
+            pair<int,char>a=pq.top();
             pq.pop();
 
-            auto b=pq.top();
+            pair<int,char>b=pq.top();
             pq.pop();
 
             res.push_back(a.second);
