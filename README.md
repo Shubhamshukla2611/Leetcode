@@ -129,9 +129,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Binary Search
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0658-find-k-closest-elements) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
