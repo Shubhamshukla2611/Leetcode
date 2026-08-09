@@ -5,6 +5,7 @@ void fun(vector<int>& candidates, int n, int idx, vector<int>& temp,int sum, vec
 
 
     if(idx==n){
+
         return;
     }
     if(sum==target){
