@@ -26,9 +26,11 @@ public:
             vector<int> temp;
 
             while(lvlsize--){
+
                 TreeNode* t = q.front();
                 q.pop();
                 temp.push_back(t->val);
+
 
                 if(t->left!=NULL){
                     q.push(t->left);
