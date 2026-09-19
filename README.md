@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1143-longest-common-subsequence](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Binary Search
 |  |
@@ -462,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
