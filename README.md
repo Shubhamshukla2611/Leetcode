@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0994-rotting-oranges) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1306-jump-game-iii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1306-jump-game-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [1306-jump-game-iii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0994-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Lifting
 |  |
