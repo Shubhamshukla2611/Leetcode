@@ -22,9 +22,7 @@ public:
             }
             if(y>=0 && visited[y]==0){
                 q.push(y);
-                visited[y]=1;
-                
-
+                visited[y]=1;     
             }
         }
         return false;
