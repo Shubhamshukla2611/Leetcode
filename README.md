@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1925-count-square-sum-triples](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1925-count-square-sum-triples) |
 ## Quickselect
 |  |
 | ------- |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
