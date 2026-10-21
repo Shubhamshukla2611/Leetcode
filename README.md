@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2717-semi-ordered-permutation](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2717-semi-ordered-permutation) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 ## Two Pointers
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Stack
 |  |
 | ------- |
