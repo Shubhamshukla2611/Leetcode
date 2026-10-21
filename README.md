@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1306-jump-game-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1534-count-good-triplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1534-count-good-triplets) |
 | [1631-path-with-minimum-effort](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1995-count-special-quadruplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1995-count-special-quadruplets) |
 ## Two Pointers
@@ -530,5 +531,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1995-count-special-quadruplets) |
 <!---LeetCode Topics End-->
