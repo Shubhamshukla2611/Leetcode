@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1534-count-good-triplets) |
 | [1631-path-with-minimum-effort](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1995-count-special-quadruplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1995-count-special-quadruplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Sweep Line
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1995-count-special-quadruplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1995-count-special-quadruplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Queue
 |  |
 | ------- |
