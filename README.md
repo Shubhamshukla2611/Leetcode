@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2717-semi-ordered-permutation](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2717-semi-ordered-permutation) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 ## Two Pointers
@@ -548,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+## Simulation
+|  |
+| ------- |
+| [2717-semi-ordered-permutation](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2717-semi-ordered-permutation) |
 <!---LeetCode Topics End-->
