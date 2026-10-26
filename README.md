@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0455-assign-cookies) |
 ## Enumeration
 |  |
@@ -566,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2717-semi-ordered-permutation](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2717-semi-ordered-permutation) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
