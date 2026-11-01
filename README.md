@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Stack
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1995-count-special-quadruplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Memoization
 |  |
 | ------- |
