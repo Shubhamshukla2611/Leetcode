@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shubhamshukla2611/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Shubhamshukla2611/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shubhamshukla2611/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sweep Line
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Shubhamshukla2611/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Queue
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Shubhamshukla2611/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shubhamshukla2611/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Linked List
 |  |
 | ------- |
