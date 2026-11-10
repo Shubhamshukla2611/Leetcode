@@ -21,9 +21,10 @@ public:
                 return true;
             }
             else{
-                j++;
                 k++;
+                j++;
                 window.clear();
+                
             }
 
         }
