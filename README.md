@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0994-rotting-oranges) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0767-reorganize-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1995-count-special-quadruplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1995-count-special-quadruplets) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0930-binary-subarrays-with-sum](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Memoization
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
