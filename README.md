@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0986-interval-list-intersections](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0986-interval-list-intersections) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0454-4sum-ii) |
+| [0567-permutation-in-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Memoization
