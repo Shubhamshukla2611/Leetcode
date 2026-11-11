@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1306-jump-game-iii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1306-jump-game-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0767-reorganize-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1995-count-special-quadruplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1925-count-square-sum-triples) |
 ## Quickselect
 |  |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Memoization
 |  |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhamshukla2611/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shubhamshukla2611/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shubhamshukla2611/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Simulation
